@@ -1,0 +1,52 @@
+body{
+    font-size: 50px;
+    width: 100%;
+    height: 100%;
+}
+.onetotwo{
+    display: flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.one{
+    background-color: green;
+    flex: 1;
+}
+.two{
+    background-color: violet;
+    flex: 3;
+}
+.threetofour{
+    display: flex;
+    width: 100%;
+}
+.three{
+    background-color: green;
+    flex: 1;
+}
+.four{
+    background-color: violet;
+    flex: 3;
+    padding: 10px;
+}
+.fourone{
+    background-color: orange;
+    flex: 1;
+}
+.fourtwo{
+    background-color: blanchedalmond;
+    flex: 3;
+}
+.fivesix{
+    display: flex;
+    width: 100%;
+    margin-top : 10px;
+}
+.five{
+    background-color: forestgreen;
+    flex: 1;
+}
+.six{
+    background-color: violet;
+    flex: 1;
+}

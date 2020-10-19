@@ -1,0 +1,37 @@
+body {
+  font-size: 60px;
+  font-weight: bold;
+}
+.row {
+}
+.col {
+  float: left;
+}
+.col-50{
+    width: 50%;
+}
+.col-a{
+    background-color: red;
+}
+.col-b{
+    background-color: pink;
+}
+.col-33{
+    width: 33.3333%;
+}
+.col-c{
+    background-color: blue;
+}
+.col-d{
+    background-color:gold;
+}
+.col-f{
+    background-color:chartreuse;
+}
+.row-flex{
+display: flex;
+width: 100%;
+}
+.col-flex{
+flex: 1;
+}
